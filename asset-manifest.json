@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jotform/static/css/main.b08df608.chunk.css",
+    "main.js": "/jotform/static/js/main.175f1fd3.chunk.js",
+    "main.js.map": "/jotform/static/js/main.175f1fd3.chunk.js.map",
+    "runtime-main.js": "/jotform/static/js/runtime-main.e3b00b43.js",
+    "runtime-main.js.map": "/jotform/static/js/runtime-main.e3b00b43.js.map",
+    "static/js/2.c07e963c.chunk.js": "/jotform/static/js/2.c07e963c.chunk.js",
+    "static/js/2.c07e963c.chunk.js.map": "/jotform/static/js/2.c07e963c.chunk.js.map",
+    "index.html": "/jotform/index.html",
+    "precache-manifest.c249d898b4d2201a1b95ab03f70baddd.js": "/jotform/precache-manifest.c249d898b4d2201a1b95ab03f70baddd.js",
+    "service-worker.js": "/jotform/service-worker.js",
+    "static/css/main.b08df608.chunk.css.map": "/jotform/static/css/main.b08df608.chunk.css.map",
+    "static/js/2.c07e963c.chunk.js.LICENSE.txt": "/jotform/static/js/2.c07e963c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3b00b43.js",
+    "static/js/2.c07e963c.chunk.js",
+    "static/css/main.b08df608.chunk.css",
+    "static/js/main.175f1fd3.chunk.js"
+  ]
+}
