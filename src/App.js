@@ -29,7 +29,6 @@ function App() {
           title="MDR"
           width="100%"
           height="100%"
-          //src="https://form.jotform.com/{202575577685066}">
           src={ formUrl }>
       </iframe>
     </div>
